@@ -1,8 +1,8 @@
-#Health Premium Prediction - Regression Model
-##Overview
+# Health Premium Prediction - Regression Model
+## Overview
 This project aims to predict health insurance premiums based on various customer attributes using a regression model. It follows a structured workflow including scope definition (Jira), data collection, data cleaning & EDA, feature engineering, model training, error analysis, and finally, deployment using Streamlit.
 
-##Table of Contents
+## Table of Contents
 Project Scope
 Dataset
 Exploratory Data Analysis (EDA)
