@@ -19,8 +19,8 @@ This project aims to predict health insurance premiums based on various customer
 * Developed a machine learning model to predict health insurance premiums based on customer demographics and medical history.
 * Built an interactive Streamlit web app to allow users to input data and get real-time premium predictions.
 ## Dataset
-###The dataset was collected from [source name if available].
-#####Features include:
+### The dataset was collected from [source name if available].
+##### Features include:
 * Age
 * Gender
 * Region
